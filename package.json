@@ -1,0 +1,23 @@
+{
+  "name": "figma-tokens-example",
+  "version": "1.0.0",
+  "description": "This example code is bare-bones to show you what this framework can do. If you have the style-dictionary module installed globally, you can `cd` into this directory and run: ```bash style-dictionary build ```",
+  "main": "index.js",
+  "scripts": {
+    "build": "style-dictionary build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Natanaelvich/figma-tokens-example.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Natanaelvich/figma-tokens-example/issues"
+  },
+  "homepage": "https://github.com/Natanaelvich/figma-tokens-example#readme",
+  "dependencies": {
+    "style-dictionary": "^3.7.1"
+  }
+}
