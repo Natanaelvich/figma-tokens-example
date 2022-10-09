@@ -1,4 +1,4 @@
-# Figma Tokens Example
+# Figma tokens automate ci example
 
 <p align="center">
   <a href="#-technologies">Technologies</a> •
